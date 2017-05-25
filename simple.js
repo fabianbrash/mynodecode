@@ -1,4 +1,4 @@
-
+/*Simple app to connect to and return all the values in a rethinkdb */
 
 var r = require('rethinkdb');
 

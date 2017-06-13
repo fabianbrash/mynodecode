@@ -1,0 +1,15 @@
+{
+  "name": "rethinkapp",
+  "version": "1.0.0",
+  "description": "Simple app connecting to a rethinkdb backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian Brash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "rethinkdb": "^2.3.3"
+  }
+}
